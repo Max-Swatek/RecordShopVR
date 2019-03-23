@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FD7B8BCD-EC39-7D72-BDBF-487479C1EAAF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GVRbutton.cs">
+    <Files>
+      <File FileName="Assets/GVRbutton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
