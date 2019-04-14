@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 0794f15a007a1459187fca01f06261ef
+  - enabled: 1
+    path: Assets/Scenes/RockLevel1.unity
+    guid: 7d09f64f9f8704a24a30569280cdc3fe
+  - enabled: 1
+    path: Assets/Scenes/JazzLevel1.unity
+    guid: f280298eef8fa4f3cbe9693b90d3dc88
+  - enabled: 1
+    path: Assets/Scenes/CountryLevel1.unity
+    guid: f74bb6a8ffd7f2745b3879e493cc8902
   m_configObjects: {}
