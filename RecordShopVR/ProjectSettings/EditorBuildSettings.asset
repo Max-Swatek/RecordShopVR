@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Rock/The_Black_Keys.unity
     guid: 96ad550af81a24c45825c7bcb8ce5dbc
+  - enabled: 1
+    path: Assets/Scenes/Rock/The_Clash.unity
+    guid: a72324f58bca8e24097ce8a82ac41e6a
   m_configObjects: {}
