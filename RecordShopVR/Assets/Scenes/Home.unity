@@ -2955,6 +2955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: JazzShelf
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 3a4fda190b40d459a82218b2477dff87, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3a4fda190b40d459a82218b2477dff87, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.1893
