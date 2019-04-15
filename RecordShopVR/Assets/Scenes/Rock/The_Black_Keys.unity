@@ -1695,7 +1695,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3d1ff674e31fe084baf29e756f80bffb, type: 2}
+  - {fileID: 2100000, guid: 61558421a48f3a14992cb6442a23d5e6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3826,7 +3826,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b7a3be1316c82874eb2f750e0d613101, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bef4aa3f0919e1c4e93fe6d81a131091, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4025,7 +4025,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 99d1725d12788684ea2770fcac622a42, type: 3}
+  m_audioClip: {fileID: 8300000, guid: a833a90557a5a1545b3a1a362851fbbd, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
