@@ -22,5 +22,6 @@ obj/
 *.unityproj
 *.booproj
 *.meta
+*.meta*
 
-RecordShopVR/Library/metadata
+RecordShopVR/Library/metadata/
