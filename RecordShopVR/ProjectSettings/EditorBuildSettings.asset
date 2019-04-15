@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Jazz.unity
     guid: 1967beb9deb322d45aa3618745c0bd46
   - enabled: 1
+    path: Assets/Scenes/Jazz/Billie_Holiday.unity
+    guid: d9b0bf46ea4255a46b9884b1e0a69c93
+  - enabled: 1
     path: Assets/Scenes/Jazz/Ray_Charles.unity
     guid: f12daaa9aef0bb844844da3b65d43a2e
   - enabled: 1
