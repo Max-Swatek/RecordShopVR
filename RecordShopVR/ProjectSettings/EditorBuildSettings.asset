@@ -11,13 +11,58 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: 0794f15a007a1459187fca01f06261ef
-  - enabled: 1
-    path: Assets/Scenes/RockLevel1.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/7d09f64f9f8704a24a30569280cdc3fe
     guid: 7d09f64f9f8704a24a30569280cdc3fe
-  - enabled: 1
-    path: Assets/Scenes/JazzLevel1.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/f280298eef8fa4f3cbe9693b90d3dc88
     guid: f280298eef8fa4f3cbe9693b90d3dc88
   - enabled: 1
-    path: Assets/Scenes/CountryLevel1.unity
+    path: Assets/Scenes/Level1/Jazz.unity
+    guid: 1967beb9deb322d45aa3618745c0bd46
+  - enabled: 1
+    path: Assets/Scenes/Level2/Jazz/Billie_Holiday.unity
+    guid: d9b0bf46ea4255a46b9884b1e0a69c93
+  - enabled: 1
+    path: Assets/Scenes/Level2/Jazz/Ray_Charles.unity
+    guid: f12daaa9aef0bb844844da3b65d43a2e
+  - enabled: 1
+    path: Assets/Scenes/Level2/Jazz/Screamin_Jay_Hawkins.unity
+    guid: 753810c217d679748ba2e7f69e3278f6
+  - enabled: 1
+    path: Assets/Scenes/Level2/Jazz/Glenn_Miller.unity
+    guid: d7bcde392b9f77e4cb718b8ad81c172c
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/f74bb6a8ffd7f2745b3879e493cc8902
     guid: f74bb6a8ffd7f2745b3879e493cc8902
+  - enabled: 1
+    path: Assets/Scenes/Level1/Country.unity
+    guid: f3fe8e0ad02810d4d992fae6de971f2c
+  - enabled: 1
+    path: Assets/Scenes/Level2/Country/Luke_Combs.unity
+    guid: 4be352f4b1b28f3488450c77a152f11a
+  - enabled: 1
+    path: Assets/Scenes/Level2/Country/Florida_George_Line.unity
+    guid: 756e3812585c63548a94088bafd17119
+  - enabled: 1
+    path: Assets/Scenes/Level2/Country/Dan+Shay.unity
+    guid: db6f3c11df53d51448cd1bb7403e813a
+  - enabled: 1
+    path: Assets/Scenes/Level2/Country/Carrie_Underwood.unity
+    guid: 7882767ce17459b418bd4056cd7f135a
+  - enabled: 1
+    path: Assets/Scenes/Level1/Rock.unity
+    guid: 1c1fa485129025a428ad3f158db53d44
+  - enabled: 1
+    path: Assets/Scenes/Level2/Rock/Pink_Floyd.unity
+    guid: 8476a24f3d3da7e4393a4ebee6e2d957
+  - enabled: 1
+    path: Assets/Scenes/Level2/Rock/Rolling_Stones.unity
+    guid: 944b72279ff6d04429f97c33fd10d41e
+  - enabled: 1
+    path: Assets/Scenes/Level2/Rock/The_Black_Keys.unity
+    guid: 96ad550af81a24c45825c7bcb8ce5dbc
+  - enabled: 1
+    path: Assets/Scenes/Level2/Rock/The_Clash.unity
+    guid: a72324f58bca8e24097ce8a82ac41e6a
   m_configObjects: {}

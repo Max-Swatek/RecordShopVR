@@ -12,6 +12,8 @@ public class GVRbutton : MonoBehaviour
     public bool gvrStatus;
     public float gvrTimer;
 
+    public bool hit = false;
+
     // Update is called once per frame
     void Update()
     {
@@ -22,7 +24,12 @@ public class GVRbutton : MonoBehaviour
         }
         if (gvrTimer > totalTime)
         {
-            GVRClick.Invoke();
+            if(!hit) 
+            {
+                hit = true;
+                GVRClick.Invoke();
+            }
+
         }
     }
     public void GvrOn()
@@ -34,5 +41,6 @@ public class GVRbutton : MonoBehaviour
         gvrStatus = false;
         gvrTimer = 0;
         imgCircle.fillAmount = 0;
+        hit = false;
     }
 }
